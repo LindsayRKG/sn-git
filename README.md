@@ -1,6 +1,6 @@
 # projet pout sn
 
-Description courte du projet.
+Description courtee du projet.
 
 ## Installation
 ## Usage
